@@ -5,7 +5,6 @@ AI-powered codebase Q&A using AST-aware chunking, hybrid search, and Claude.
 ## Setup
 
 ```bash
-cd codebase
 python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 
