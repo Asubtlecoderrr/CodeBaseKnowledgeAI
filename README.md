@@ -1,4 +1,4 @@
-# codebase-qa
+# CodeBase Knowledge AI
 
 AI-powered codebase Q&A using AST-aware chunking, hybrid search, and Claude.
 
